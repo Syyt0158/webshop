@@ -27,13 +27,9 @@
       color: black;
   }
 
-  .topnav a:active {
+  .topnav a:focus {
       background-color: #f065af;
       color: white;
-  }
-
-  .topnav a:target {
-      background-color: #f065af;
   }
 
   .topnav .search-container {
@@ -89,3 +85,4 @@
 
 
   /* f065af */
+  /* 8f8087 */
